@@ -73,3 +73,13 @@ git add number_guessing_game
 git commit -m "fix: update project folder"
 git status
 git add .freeCodeCamp/test/.next_command
+git add number_guessing_game
+git commit -m "fix: resolve modified project folder and test files"
+git status
+cd number_guessing_game
+git status
+git add .
+git commit -m "fix: update number guess game script"
+cd ..
+git add number_guessing_game
+git add .freeCodeCamp/test/.next_command
