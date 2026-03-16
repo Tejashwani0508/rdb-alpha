@@ -87,3 +87,5 @@ git commit -m "fix: update project folder reference"
 git status
 git status
 git add .freeCodeCamp/test/.next_command
+git commit -m "chore: update test command file"
+git status
