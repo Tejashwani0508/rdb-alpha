@@ -83,3 +83,5 @@ git commit -m "fix: update number guess game script"
 cd ..
 git add number_guessing_game
 git add .freeCodeCamp/test/.next_command
+git commit -m "fix: update project folder reference"
+git status
