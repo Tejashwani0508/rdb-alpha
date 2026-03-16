@@ -58,3 +58,10 @@ git add number_guess.sh
 git status
 git add .
 git commit -m "fix: clean working tree and add database dump"
+git branch -M main
+git status
+git add
+git add .
+git branch -M main
+git add .
+git add -A
