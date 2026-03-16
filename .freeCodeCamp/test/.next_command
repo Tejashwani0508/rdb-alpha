@@ -68,3 +68,8 @@ git add -A
 git commit -m "fix: clean working tree"
 git branch -M main
 git status
+git log --oneline
+git add number_guessing_game
+git commit -m "fix: update project folder"
+git status
+git add .freeCodeCamp/test/.next_command
