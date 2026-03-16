@@ -57,3 +57,4 @@ psql --username=freecodecamp --dbname=postgres
 git add number_guess.sh
 git status
 git add .
+git commit -m "fix: clean working tree and add database dump"
